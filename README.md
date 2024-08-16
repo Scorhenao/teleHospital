@@ -1,7 +1,5 @@
 # teleHospital
 
-Claro, aquí tienes otro proyecto complejo, con una estructura que incluye historias de usuario:
-
 ### **Proyecto: Plataforma de Gestión de Salud Digital con Telemedicina**
 
 **Descripción:**
